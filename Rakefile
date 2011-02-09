@@ -125,7 +125,8 @@ end
 vim_plugin_task "vim_easytags",     "git://github.com/spf13/vim-easytags.git"
 vim_plugin_task "janitor",          "git://github.com/kossnocorp/janitor.vim.git"
 vim_plugin_task "indent_guides",    "git://github.com/nathanaelkane/vim-indent-guides.git"
-
+vim_plugin_task "peepopen",         "git://github.com/shemerey/vim-peepopen.git"
+vim_plugin_task "lusty",            "git://github.com/sjbach/lusty.git"
 
 vim_plugin_task "ack.vim",          "git://github.com/mileszs/ack.vim.git"
 vim_plugin_task "color-sampler",    "http://www.vim.org/scripts/download_script.php?src_id=12179"
